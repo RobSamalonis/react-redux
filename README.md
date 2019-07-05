@@ -1,4 +1,4 @@
-## Swoll
+## Base react redux setup with docker
 
 # Docker
 
